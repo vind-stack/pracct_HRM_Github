@@ -1,0 +1,7 @@
+[32mINFO    [0m Test_002_DDT_HRM_Login:test_HRM_DDTtest.py:21 ************ Test_002_DDT_HRM_Login **************
+[32mINFO    [0m Test_002_DDT_HRM_Login:test_HRM_DDTtest.py:22 ************ test_002_DDT_HRM_Login **************
+[32mINFO    [0m Test_002_DDT_HRM_Login:test_HRM_DDTtest.py:44 ************ DDT_HRM_Login is passed **************
+[32mINFO    [0m Test_002_DDT_HRM_Login:test_HRM_DDTtest.py:58 ************ DDT_HRM_Login is passed **************
+[32mINFO    [0m Test_002_DDT_HRM_Login:test_HRM_DDTtest.py:58 ************ DDT_HRM_Login is passed **************
+[32mINFO    [0m Test_002_DDT_HRM_Login:test_HRM_DDTtest.py:58 ************ DDT_HRM_Login is passed **************
+[32mINFO    [0m Test_002_DDT_HRM_Login:test_HRM_DDTtest.py:62 ************ DDT_HRM_Login is PASSED **************
