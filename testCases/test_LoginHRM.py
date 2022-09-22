@@ -2,7 +2,6 @@ import time
 import allure
 import pytest
 from allure_commons.types import AttachmentType
-from selenium.webdriver.common.by import By
 from UlitiesHRM.customLogger import LogGen
 from UlitiesHRM.readProperties import ReadConfig
 from pageObjectModel.Login_HRM import LoginHRM
@@ -35,6 +34,8 @@ class Test_01_HRMLogin():
             assert False
 
 
+
+
     @allure.severity(allure.severity_level.CRITICAL)
     def test_002_LoginHRM(self, setup):
         self.logger.info("***************** HRMLogin ********************")
@@ -55,7 +56,7 @@ class Test_01_HRMLogin():
             time.sleep(5)
             self.lghrm.clickLogout()
             self.driver.close()
-            assert True == True 
+            assert True == True
 
         else:
             allure.attach(self.driver.get_screenshot_as_png(), name="allureErrorPic", attachment_type=AttachmentType.PNG)
@@ -66,5 +67,3 @@ class Test_01_HRMLogin():
             self.logger.error("***************** HRM Failed ********************")
             self.driver.close()
             assert True == False
-
-

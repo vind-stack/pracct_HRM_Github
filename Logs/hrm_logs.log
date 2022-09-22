@@ -459,3 +459,21 @@
 2022-06-30 20:37:21,902: INFO: Test_002_DDT_HRM_Login: ************ DDT_HRM_Login is passed **************
 2022-06-30 20:37:28,872: INFO: Test_002_DDT_HRM_Login: ************ DDT_HRM_Login is passed **************
 2022-06-30 20:37:28,872: INFO: Test_002_DDT_HRM_Login: ************ DDT_HRM_Login is failed **************
+2022-08-27 22:36:35,188: INFO: Test_01_HRMLogin: ***************** HRMLogin_title_Check ********************
+2022-08-27 22:36:35,204: INFO: Test_01_HRMLogin: ***************** test_001_LoginHRMTitle ********************
+2022-08-27 22:36:46,526: ERROR: Test_01_HRMLogin: ***************** HRMLogin is unsuccessfull ********************
+2022-08-27 22:36:49,867: INFO: Test_01_HRMLogin: ***************** HRMLogin ********************
+2022-08-27 22:36:49,867: INFO: Test_01_HRMLogin: ***************** test_002_LoginHRM ********************
+2022-08-27 22:36:55,629: INFO: Test_01_HRMLogin: ***************** Login into HRM ********************
+2022-09-20 13:20:22,929: INFO: Test_01_HRMLogin: ***************** HRMLogin_title_Check ********************
+2022-09-20 13:20:22,960: INFO: Test_01_HRMLogin: ***************** test_001_LoginHRMTitle ********************
+2022-09-20 13:20:34,497: ERROR: Test_01_HRMLogin: ***************** HRMLogin is unsuccessfull ********************
+2022-09-20 13:21:33,376: INFO: Test_01_HRMLogin: ***************** HRMLogin_title_Check ********************
+2022-09-20 13:21:33,376: INFO: Test_01_HRMLogin: ***************** test_001_LoginHRMTitle ********************
+2022-09-20 13:21:43,063: INFO: Test_01_HRMLogin: ***************** HRMLogin is successfull ********************
+2022-09-20 14:38:02,839: INFO: Test_01_HRMLogin: *************** Test_new_HRM_login ****************
+2022-09-20 14:38:02,875: INFO: Test_01_HRMLogin: ***************test_Login_HRM_new_Title_Check****************
+2022-09-20 14:38:07,880: INFO: Test_01_HRMLogin: *********** the Title is Correct **********
+2022-09-20 14:40:09,495: INFO: Test_01_HRMLogin: *************** Test_new_HRM_login ****************
+2022-09-20 14:40:09,496: INFO: Test_01_HRMLogin: ***************test_Login_HRM_new_Title_Check****************
+2022-09-20 14:40:14,518: ERROR: Test_01_HRMLogin: ********* Title is incorrect ************

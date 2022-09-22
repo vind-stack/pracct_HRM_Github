@@ -1,5 +1,4 @@
 import configparser
-
 configs = configparser.RawConfigParser()
 configs.read(".\\configurations\\config.ini")
 
